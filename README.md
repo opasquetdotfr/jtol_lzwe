@@ -9,8 +9,5 @@ This tool was used for a piece within the Flucoma project and "The Keys to the K
 Explanation and tests here:
 https://www.opasquet.fr/jtol_lzw/
 
-needed:
-<a href="https://cycling74.com/downloads/">Max 8.1.3</a>,
-<a href="http://www.bachproject.net/download">bach 0.8.1</a> and
-<a href="https://github.com/opasquetdotfr/jtol">Jtol</a>
-The bach version directly available from the Max Package manager may cause problems.
+Needed:
+<a href="https://cycling74.com/downloads/">Max 8.1.3</a>, <a href="http://www.bachproject.net/download">bach 0.8.1</a> and <a href="https://github.com/opasquetdotfr/jtol">Jtol</a>. The bach version directly available from the Max Package manager may cause problems.
